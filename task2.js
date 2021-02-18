@@ -14,4 +14,4 @@ function whatIsIt(x) {
     }
 }
 
-whatIsIt(NaN)
+// whatIsIt(NaN)
